@@ -76,7 +76,7 @@ export const LoginForm: React.FC = () => {
             <Button
               type="submit"
               marginTop={6}
-              backgroundColor="#BFA4A4"
+              colorScheme='gray'
               onClick={handleLogin}
             >
               Login
